@@ -1,7 +1,7 @@
 # hello-world
 My first repository
-Okej detta ska bli spännande!
+Ok this will be exiting
 
-Undrar om Linda laddat ner detta än så att hon hade kunnat kolla på vad jag gjort...
+I wonder if Linda has downloaded this yet...
 
-Hmm... det kan jag frga henne en annan dag! 
+I'll ask her tomorrow!
